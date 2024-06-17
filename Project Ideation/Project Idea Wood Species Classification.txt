@@ -1,0 +1,37 @@
+Project Idea: Wood Species Classification using Non-Destructive Imaging Techniques
+Team Name - WoodTech
+
+Project Title
+Wood Species Classification using Non-Destructive Imaging Techniques
+
+Project Summary
+The classification of wood species is crucial for various industries, including lumber production and forest conservation. The goal of this project is to develop a classification system that utilizes non-destructive imaging techniques, such as X-ray imaging, terahertz waves, and visible light imaging, to accurately identify different wood species. This project is interesting because it leverages advanced imaging technologies to provide a non-invasive method for wood species identification, which can be highly beneficial for sorting logs into bins, instead of using more difficult methods that take longer.
+
+Approach
+Our approach involves the following steps:
+
+Data Preparation: We will use the "Non-Destructive Wood Analysis" dataset, which includes X-ray images, terahertz wave measurements, and visible light images of 38 different wood species. The data will be preprocessed to ensure it is suitable for model input. For the terahertx wave measurements, each measurement would need to be divided into their real and imaginary parts, and then the shape will be (32, 140, 73, 512, 2) (with an additional dimension)
+
+Model Implementation: We will implement a convolutional neural network (CNN) to classify the wood species. The model architecture will include convolutional layers for feature extraction from the different imaging modalities.
+
+Training and Evaluation: We will train the model on the dataset and evaluate its performance using metrics such as accuracy, precision, recall, and F1-score. 
+
+Feature Engineering: We will explore various features extracted from the different imaging modalities to improve model performance. This may include texture analysis, spectral features, and shape descriptors.
+
+Resources / Related Work & Papers
+The state-of-the-art for wood species classification includes various machine learning and deep learning approaches. We will refer to the following resources:
+
+Arzamasov, B. et al. (2021). Non-destructive Evaluation of Wood Properties using X-ray and Terahertz Imaging.
+Silva, S. et al. (2020). Wood Species Classification based on Texture Features and Machine Learning.
+Iizuka, K. et al. (2019). Deep Learning Approach for Identifying Wood Species using Visible Light Imaging.
+Datasets
+We will use the "Non-Destructive Wood Analysis" dataset for training and evaluation. This dataset includes:
+
+X-ray images obtained using an industrial optical scanner equipped with a transmission X-ray imaging system.
+Terahertz measurements using a Frequency Modulated Continuous Wave radar with a frequency range between 110 GHz and 130 GHz.
+Visible light images of all six faces of each sample taken with a standard printer scanner.
+CSV files with sample details, including dimensions and mass.
+
+Ethical Implications
+We will ensure that the use of the wood dataset complies with licensing terms and respect the intellectual property rights associated with the data. Additionally, we will consider the environmental impact of promoting sustainable wood sourcing practices through improved classification techniques.
+
