@@ -1,3 +1,12 @@
+## Team Name
+PosterVision (Temporary Name)
+
+## Project Title
+Visual Similarities of Movie Posters (Temporary Title)
+
+## Project Summary
+TBD
+
 ## What You Will Do (Approach)
 We will start by scraping a large dataset of movie posters from the internet, removing duplicates and irrelevant images. Using a pre-trained InceptionV3 model, we will extract feature vectors for each poster. These vectors will be reduced using t-SNE to visualize the high-dimensional data in a 2D space. We will then apply DBSCAN to cluster the posters based on visual similarity. To proceed further than our inspiration, we'll then implement further classifications and predictions on the clustered data such as Genre, Year, Ratings, etc. Our implementation will include preprocessing, feature extraction, dimensionality reduction, clustering, and visualization, ensuring thorough analysis and optimization at each step.
 
@@ -12,6 +21,12 @@ We will start by scraping a large dataset of movie posters from the internet, re
 We will use publicly available movie poster datasets such as those from IMDB or TMDB. These datasets contain a vast collection of posters that will be used for our analysis:
 1. IMDB Dataset: [Link](https://developer.imdb.com/non-commercial-datasets/)
 2. Kaggle Dataset: [Link](https://www.kaggle.com/datasets/rezaunderfit/48k-imdb-movies-with-posters)
+
+
+## Team Members
+- Vijayaragunathan, Yokesh Babu
+- Vaidya, Omkar K
+- Rashid, Syfuddin M
 
 ## Backup Dataset
 1. Pre Labelled Movie Poster Dataset: [Link](https://www.cs.ccu.edu.tw/~wtchu/projects/MoviePoster/index.html)
