@@ -5,7 +5,7 @@ PosterVision (Temporary Name)
 Visual Similarities of Movie Posters (Temporary Title)
 
 ## Project Summary
-TBD
+The current landscape of movie posters is saturated with similar looking posters and predictable layouts. This homogeneity leads to a form of decision fatigue when it comes to choosing a film. This project aims to dissect this phenomenon of repetitiveness by identifying overused features and patterns. By filtering out predictive designs, deep learning could be a tool to identify novel poster features which may appeal to movie goers. The shift wouldn't just be aesthetically pleasing, it could also be used as a marketing tool, and spark customers to select a movie based solely, or in part, on the poster design. 
 
 ## What You Will Do (Approach)
 We will start by scraping a large dataset of movie posters from the internet, removing duplicates and irrelevant images. Using a pre-trained InceptionV3 model, we will extract feature vectors for each poster. These vectors will be reduced using t-SNE to visualize the high-dimensional data in a 2D space. We will then apply DBSCAN to cluster the posters based on visual similarity. To proceed further than our inspiration, we'll then implement further classifications and predictions on the clustered data such as Genre, Year, Ratings, etc. Our implementation will include preprocessing, feature extraction, dimensionality reduction, clustering, and visualization, ensuring thorough analysis and optimization at each step.
