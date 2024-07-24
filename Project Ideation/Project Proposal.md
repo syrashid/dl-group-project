@@ -5,7 +5,7 @@ Poster Toasters
 Breaking Down the Movie Poster
 
 ## Project Summary
-The current landscape of movie posters is saturated with similar looking posters and predictable layouts. This homogeneity leads to a form of decision fatigue when it comes to choosing a film. This project aims to dissect this phenomenon of repetitiveness by identifying commonly used features and patterns. By determining common designs and patterns, deep learning could be a tool to help generate novel poster features through breaking the current designs which in turn may appeal to movie goers. The shift wouldn't just be aesthetically pleasing, it could also be used as a marketing tool, and spark customers to select a movie based solely, or in part, on the poster design. 
+The current landscape of movie posters is saturated with similar looking posters and predictable layouts. This homogeneity leads to a form of decision fatigue when it comes to choosing a film. This project aims to dissect this phenomenon of repetitiveness by identifying commonly used features and patterns. By determining common designs and patterns, deep learning could be a tool to help generate novel poster features through breaking the current designs which in turn may appeal to movie goers. The shift wouldn't just be aesthetically pleasing, it could also be used as a marketing tool, and spark customers to select a movie based solely, or in part, on the poster design.
 
 ## What You Will Do (Approach)
 The inital phase of our project will involve scraping large datasets of movie posters from the internet and performing appropriate preprocessing (removing duplicates, low quality, irrelevant images, etc). Using existing pre-trained architectures such as InceptionV3 and utilizing transfer learning from ImageNet key feature vectors can be extracted from the layers which can then be used to cluster the existing data, t-SNE may be applied to first reduce the dimensionality of the data for a visual inspection. With clusters in hand our experimentation can take a few interesting directions. Clusters can then be utilized to identify key patterns or features and determine how well they align to key attributes such as genre, year, ratings, etc. If time permits it'd be interesting to see if transformations of existing posters could be performed that would change our categorization or adversarial training could be introduced to determine how robust our model is to perturbations.
@@ -30,3 +30,4 @@ We will use publicly available movie poster datasets such as those from IMDB or 
 
 ## Backup Dataset
 1. Pre Labelled Movie Poster Dataset: [Link](https://www.cs.ccu.edu.tw/~wtchu/projects/MoviePoster/index.html)
+
