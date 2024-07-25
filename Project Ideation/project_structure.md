@@ -18,9 +18,9 @@
 -- Comparison of the two models will provide a lot of rich insight for us to dig into, why one may outperform the other or not
 
 - Visualize
+-- Visualize activations and create plenty of these graphs
 -- Do a tsne to flatten and then use unsupervised learning to create groupings, labeling each grouping with the largest percentage of a genre could highlight interesting behaviour of what our model is seeing as well
 -- Use things like Grad-CAM to better understand how our model is "seeing/focusing on" in each poster
--- Visualize activations and create plenty of these graphs
 -- See what we can create ourselves through Generative Adversarial Networks
 
 
