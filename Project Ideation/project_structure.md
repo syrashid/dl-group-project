@@ -15,7 +15,7 @@
 -- Should back justify why each model will work well or not
 -- Should perform hypertuning for each model
 -- Analyze results, plots plots plots
--- Comparison of the two models will provide a lot of rich insight for us to dig into, why one may outperform the other or not
+-- Comparison of the two models will provide a lot of rich insight for us to dig into and write about, why one may outperform the other or not, etc
 
 - Visualize
 -- Visualize activations and create plenty of these graphs
