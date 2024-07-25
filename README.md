@@ -4,7 +4,7 @@
 # Pre-Processing
 Combining [IMDB data](https://datasets.imdbws.com/) with the [Kaggle Poster data](https://www.kaggle.com/datasets/rezaunderfit/48k-imdb-movies-with-posters) into a csv file
 
-Data exported to movie_data.csv
+Data exported to [movie_data.csv](https://drive.google.com/file/d/1yP8Fk7d4zlstBxxkudYFB29RtPfOxaWm/view?usp=sharing)
 
 https://drive.google.com/drive/folders/1rprgWfqH0HiV_yQ-KAmuSCMV5VAZ_342?usp=sharing
 
