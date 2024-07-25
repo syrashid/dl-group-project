@@ -4,7 +4,10 @@
 # Pre-Processing
 Combining [IMDB data](https://datasets.imdbws.com/) with the [Kaggle Poster data](https://www.kaggle.com/datasets/rezaunderfit/48k-imdb-movies-with-posters) into a csv file
 
-Data exported to [movie_data.csv](https://drive.google.com/file/d/1yP8Fk7d4zlstBxxkudYFB29RtPfOxaWm/view?usp=sharing)
+Data exported to
+- [movie_data.csv](https://drive.google.com/file/d/1yP8Fk7d4zlstBxxkudYFB29RtPfOxaWm/view?usp=sharing)
+- [title_poster_ratings.csv](https://drive.google.com/file/d/1yQ_QBzqNaNcI4BiZ74xc-JEnRJ-qpt2U/view?usp=sharing)
+- [title_poster_ratings_principals.csv](https://drive.google.com/file/d/1yQT5H8VrxHfeb6t5gYT9GWp4QldSdDhh/view?usp=sharing)
 
 https://drive.google.com/drive/folders/1rprgWfqH0HiV_yQ-KAmuSCMV5VAZ_342?usp=sharing
 
