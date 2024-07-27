@@ -16,7 +16,7 @@ InceptionV3 - Best Model Parameters
 - Parameters:
   - Learning Rate - 1.1e-5
   - Batch Size -16
-  - Epoch - 50
+  - Epoch - 30
 
 |Column|Data Type|Remarks|
 |--|--|--|
