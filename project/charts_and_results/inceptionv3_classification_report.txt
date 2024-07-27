@@ -1,0 +1,59 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+     Western       0.00      0.00      0.00        34
+     Fantasy       0.00      0.00      0.00        41
+   Adventure       0.24      0.04      0.07       508
+       Short       0.00      0.00      0.00        19
+     Musical       0.00      0.00      0.00        11
+       Music       0.00      0.00      0.00         6
+     History       0.00      0.00      0.00         4
+   Film-Noir       0.00      0.00      0.00         3
+      Comedy       0.48      0.59      0.53      2131
+   Biography       0.00      0.00      0.00       365
+       Crime       0.00      0.00      0.00       561
+     Romance       0.00      0.00      0.00        16
+ Documentary       0.19      0.22      0.20       463
+   Animation       0.57      0.10      0.18       229
+       Sport       0.00      0.00      0.00         2
+       Drama       0.36      0.43      0.39      1824
+      Horror       0.29      0.03      0.05       366
+  Reality-TV       0.00      0.00      0.00         2
+    Thriller       0.00      0.00      0.00        34
+     Mystery       0.00      0.00      0.00        39
+      Action       0.32      0.61      0.42      1313
+      Sci-Fi       0.00      0.00      0.00        32
+       Adult       0.00      0.00      0.00         3
+      Family       0.00      0.00      0.00        33
+     Unknown       0.00      0.00      0.00         2
+
+    accuracy                           0.37      8041
+   macro avg       0.10      0.08      0.07      8041
+weighted avg       0.31      0.37      0.32      8041
+
+F1 Scores:
+Western: 0.00
+Fantasy: 0.00
+Adventure: 0.07
+Short: 0.00
+Musical: 0.00
+Music: 0.00
+History: 0.00
+Film-Noir: 0.00
+Comedy: 0.53
+Biography: 0.00
+Crime: 0.00
+Romance: 0.00
+Documentary: 0.20
+Animation: 0.18
+Sport: 0.00
+Drama: 0.39
+Horror: 0.05
+Reality-TV: 0.00
+Thriller: 0.00
+Mystery: 0.00
+Action: 0.42
+Sci-Fi: 0.00
+Adult: 0.00
+Family: 0.00
+Unknown: 0.00
