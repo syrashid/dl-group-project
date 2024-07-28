@@ -12,7 +12,7 @@ Data exported to
 https://drive.google.com/drive/folders/1rprgWfqH0HiV_yQ-KAmuSCMV5VAZ_342?usp=sharing
 
 InceptionV3 - Best Model Parameters
-- [Best_model.pth](https://drive.google.com/file/d/1yVOQkAipxNjb3AG_Jl4HfUvb1luoeOec/view?usp=sharing)
+- [best_model_inception.pth](https://drive.google.com/file/d/1ygWBPe__GcC0e4CwCs8IRWJletZA_p6T/view?usp=sharing)
 - Parameters:
   - Learning Rate - 1.1e-5
   - Batch Size -16
