@@ -27,3 +27,22 @@ Adult - 7 (0.03%)
 Reality-TV - 1 (0.00%)
 Talk-Show - 2 (0.01%)
 Sport - 1 (0.00%)
+
+
+Breakdown after Year Reduction and Genre Reduction
+
+Train size: 18474, Validation size: 6159, Test size: 6159
+
+Genre Distribution in Training Dataset:
+Documentary - 1363 (7.38%)
+Adventure - 1127 (6.10%)
+Comedy - 5020 (27.17%)
+Action - 3388 (18.34%)
+Crime - 1209 (6.54%)
+Horror - 926 (5.01%)
+Drama - 4034 (21.84%)
+Biography - 941 (5.09%)
+Adult - 8 (0.04%)
+Fantasy - 79 (0.43%)
+Animation - 378 (2.05%)
+Family - 1 (0.01%)
